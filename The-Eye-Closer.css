@@ -1,0 +1,128 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 1034px;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  font-size: 2.25rem;
+  font-weight: 700;
+  margin: 25px auto 0 -22px;
+  padding: 10px 29px 11px 27px;
+}
+
+.u-section-1 .u-icon-1 {
+  font-size: 1.5em;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 8px 666px 0 0;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 30px 117px 0 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 1185px;
+  height: 621px;
+  margin: 55px auto 0 -11px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 905px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 466px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 940px;
+    height: 492px;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 790px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 246px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 720px;
+    height: 377px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 696px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 66px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 540px;
+    height: 283px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 591px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 178px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 400px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 55px auto 0 46px;
+}
+
+.u-section-2 .u-btn-1 {
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  background-image: none;
+  font-size: 1.5rem;
+  margin: 30px auto 0 46px;
+  padding: 33px 107px 34px 105px;
+}
+
+.u-section-2 .u-btn-2 {
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 1.5rem;
+  letter-spacing: 2px;
+  background-image: none;
+  margin: -105px 0 60px auto;
+  padding: 27px 85px 28px 84px;
+}
+
+.u-section-2 .u-icon-1 {
+  font-size: 1.3em;
+}
